@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "http://netlify.www.giymi.top:10194/:splat"
+  status = 200
+  force = true
